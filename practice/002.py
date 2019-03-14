@@ -1,3 +1,4 @@
+#第二題 簡易加法 
 import sys
 
 for s in sys.stdin:
