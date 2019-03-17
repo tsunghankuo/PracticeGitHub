@@ -1,2 +1,2 @@
 ## Practice
-*i am ahan*
+Python Practice
